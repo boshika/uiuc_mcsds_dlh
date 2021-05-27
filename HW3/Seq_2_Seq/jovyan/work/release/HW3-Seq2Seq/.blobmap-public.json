@@ -1,0 +1,210 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-079a6526398a85d2"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e559bcf016c4584e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-662d67c8f89d61b4"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9762a8c40656dc06"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f8fd0a0bdbdbd54e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-21b2fb2dbf1ff2e8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-20d1c2d6fd977a22"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-572524c6438cfdcc"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-dd5e81b9b8c115dd"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8ea7106e7baf916e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c5e10739d77ed1fa"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-bca6680fe2226e07"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-73c9c7065254f3e0"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9797093f8f141582"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b18774a2ebec35dc"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4045ed0f1f4b9687"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-df8fb1015ec538bc"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-2a4a520635a7d2b4"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-2cdf5a1e3b59dd72",
+    "label": "Hidden test cell: 2.1 Custom the dataset [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c9b3a70f18db1272"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-50005521abaf98fe",
+    "label": "Hidden test cell: 2.2 Collate Function [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0fb787270b9161d1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4f2e9e518517db0e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-dbe40dc6b384c8f0"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-f9a203ff240d95cf",
+    "label": "Hidden test cell: 2.3 DataLoader [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d852f17eea849e99"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f206e1c0d9459abb"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-35b60df3b95c0443"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-aa45439f089aca6a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-67272da780102c6f"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-db5f84f39a074460",
+    "label": "Hidden test cell: 3.1 Build the encoder model [15 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4456b6dc45c4375c"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-fd2996e12ec715e9",
+    "label": "Hidden test cell: 3.2 Build the decoder model [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-40bad955f606721f"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-06fd2b774fea5691",
+    "label": "Hidden test cell: 3.3 Connect the encoder and decoder [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-be62492fb269883c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-055e3d88da155e04"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-608d0514fef945d9"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-49b8e14db7d29817"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-aa7e17a496e35c5f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6a0ef300a62e964f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f1bd817117170596"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-1bcd0ee830fdae35",
+    "label": "Hidden test cell: 4 Model training [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6478a0ab26954d0f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-cfc8376c4f541b57"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1bb215c283b707df"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-766460c1932d6947",
+    "label": "Hidden test cell: 5 Unsupervised patient clustering [15 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e953823d84417c44"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c84efd7951adb169"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0033092e6ce467a6"
+  }
+]

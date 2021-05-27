@@ -1,0 +1,144 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-e5edec0425de3a50"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-25ebf45813d4a47b"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4c4fd1b10bb8a9d5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ad33073e8b0cba4e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f336fcb19e9320b8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-cb803a823f1d765d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7177107106467bac"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a069bf0ccf3fe69c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6875d3fe31b5dc38"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-310d771751f41c87"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-98e3c75e6503a17f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b18d8af03ccfa839"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-b95b4537f3421f02",
+    "label": "Hidden test cell: 1.1 Preprocess the text data [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-26ec70e552d7447c"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7f76d5e5bc961b32"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b73537b2d7a4fab9"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-675c09b559fd1a35",
+    "label": "Hidden test cell: 1.2 Train a word2vec model [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d522f551ab504e34"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-06afb6c19c18b838"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-70c9f6f90b1753cd"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-c3c73f089da4be5b",
+    "label": "Hidden test cell: 1.3 Evaluate the model odd_one_out [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d9197cf113a928f1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-b576a0ef65af7da9"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-3060fb5d67bb9eb4",
+    "label": "Hidden test cell: 1.3 Evaluate the model odd_one_out [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-943fce440bd3fb16"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6ab000213ab012c2"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f4c5333510bb0a62"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c7582cb8cb8ad50d"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1089364de1d0e97c"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-a10e0b6551a4e6de",
+    "label": "Hidden test cell: 2.1 t-SNE [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-1f88a47aa8bd60e4"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6a73cd01e399bfab"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-e0b9149a175c8ac2",
+    "label": "Hidden test cell: 2.2 UMAP [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ea4894d3630e1b9b"
+  }
+]

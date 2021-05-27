@@ -1,0 +1,127 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-14c98112e6be4304"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-db0ddfbbbe5dad99"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-18e324912ee6624f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-8be0e2fb263a8e89"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-70e37cba33f04914"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f664397480495ad2"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d2975b9cba830e07"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7de6777e56e98d1f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-273ecc2151c75860"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-db959006127b7b98"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-fe2c055ead9c8039"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ef11d05fde35ad36"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-ac7b85a2193c18c8",
+    "label": "Hidden test cell: Step1: Data Loader [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-14db7291abe5bf5e"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-335046c2eae4fc82",
+    "label": "Hidden test cell: Step2: Recurrent Neural Networks (RNN) [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-6ed7f596af2f2766"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-90c9f2a2e72354c9",
+    "label": "Hidden test cell: Step3 (I): Patient query network [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-64dca2749dba697a"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-a4ec4f0872a2f9a6",
+    "label": "Hidden test cell: Step4 (G): generate/update MB and DM, MemoryBank [15 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-3d8f2e969827b38b",
+    "label": "Hidden test cell: Step4 (G): generate/update MB and DM, DynamicMemory [15 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-bda34805b7c36e76"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-6166d441f089317a",
+    "label": "Hidden test cell: Step5 (O): Output of the Memory Network [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f511e57b160a0019"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-54e6c5976d570ef0",
+    "label": "Hidden test cell: Step6 (R): predict the medications [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-bbd1c990275b9d3d"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-18bdad169ea6a5fd",
+    "label": "Hidden test cell: Overall GAMENet model [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-d2a71600043d08e3"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4533d9ee43a64151"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-a09b2c774d2cdb63",
+    "label": "Hidden test cell: Training and Inferencing [15 points]"
+  }
+]

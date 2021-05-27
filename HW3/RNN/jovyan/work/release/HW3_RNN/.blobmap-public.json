@@ -1,0 +1,153 @@
+[
+  {
+    "grade": false,
+    "grade_id": "cell-52506fc51faeb1a1"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-dcd6c662fba70926"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-4fe346254a16fed8"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-71f2f1fcbf0214c3"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-f24c5a8a552afa64"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0d031c45ba4a787e"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-66a0abe057d9ca85"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-ae331190a6d48106"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-945119717fb61cc7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-e6d339169f140694"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-0a48d6dcc0f5b4ad"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-308c526175fdb62e"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-cc0baa6c9dadef8c",
+    "label": "Hidden test cell: 1.1 CustomDataset [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-de0d816943d88377"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-4b3472bbf5973793",
+    "label": "Hidden test cell: 1.2 Collate Function [20 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-125312ce2d90406a"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7f2e734b97c94232"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-c9732f7be72cb6e4"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-0c30a49563819f13",
+    "label": "Hidden test cell: 1.3 DataLoader [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9739d5ae7e1cafc5"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-7fa15685c339c1c7"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-750f2f7f3226048f"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-a9cb7f4d8889ca27"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-e2e6868f7bd913f8",
+    "label": "Hidden test cell: 2.1 Mask Selection sum_embeddings_with_mask() [10 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-611bb60b8cff5f77",
+    "label": "Hidden test cell: 2.1 Mask Selection get_last_visit() [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-51a88c33b34e6827"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-45de4813453d610f",
+    "label": "Hidden test cell: 2.2 Build NaiveRNN - Layer Definition [5 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-0c00e2f67834bd8d",
+    "label": "Hidden test cell: 2.2 Build NaiveRNN - Output Shape [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-3b34f300dcde3d1b"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-40bee829e3b63b7d",
+    "label": "Hidden test cell: 3.1 Loss and Optimizer [5 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-873df7380d762445"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-764df4f66a8f01e4",
+    "label": "Hidden test cell: 3.2 Evaluate (eval_model) [10 points]"
+  },
+  {
+    "grade": false,
+    "grade_id": "cell-9b3672b70944a8d9"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-8fc0a72d1a31aa34",
+    "label": "Hidden test cell: 3.3 Training (evaluate on validation set) [10 points]"
+  },
+  {
+    "grade": true,
+    "grade_id": "cell-8e9d1d7cb1c3a386",
+    "label": "Hidden test cell: 3.3 Training (evaluate on test set) [10 points]"
+  }
+]
